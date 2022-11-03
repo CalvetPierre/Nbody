@@ -1,4 +1,4 @@
-N-Body Project
+N-Body Project (May 2022)
 
 As part of a school project with a collegue we did a 1 week work on the N-body problem at the Strasbourg astronomical observatory with Dominique Aubert as supervisor.
 
