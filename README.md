@@ -6,7 +6,7 @@ In this project we study the basics of n-body simulation : Different integration
 
 With some pratical examples : Retrograte movement of Mars, Solar system, stability of Lagrange points
 
-You will find in this repository a part of the work we did in Python with Jupiter-notebook (quite a raw code ^^)
+You will find in this repository a part of the work we did in Python with Jupiter-notebook
 
 Here are some result :
 
